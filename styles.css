@@ -1,0 +1,65 @@
+body{
+background-color: hsl(0, 0%, 98%);
+
+}
+.button6{
+    border-radius: 5px;
+    padding: 10px;
+    background-color: hsl(0, 0%, 98%);
+    color: hsl(0, 0%, 41%);
+    padding: 12px 28px;
+}
+.button1,.button2,.button3,.button4,.button5{
+    color: hsl(0, 0%, 41%);
+    padding: 12px 36px;
+    border-style: none;
+    background-color: hsl(0, 0%, 98%);
+}
+.one{
+    margin: 30px;
+}
+.one,.two,.three{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+.flexbox-main{
+    display: flex;
+
+}
+.image-main{
+    float: right;
+    padding: 12px 28px;
+    height: 10%;
+
+}
+.grid-container{
+    justify-content: space-around;
+}
+.item1{
+    padding: 12px 28px;
+    color:black;
+    font-size: 60px;
+  }
+  .item2{
+    font-size: 18px;
+    font-weight: 800;
+    color: hsl(0, 0%, 41%);
+    padding: 12px 28px;
+  }
+.item4{
+    padding: 12px 28px;
+ 
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .button7{
+    border-radius: 5px;
+    padding: 10px;
+    background-color: hsl(0, 0%, 98%);
+    color: hsl(0, 0%, 41%);
+    padding: 12px 28px;
+  }
+
